@@ -1,2 +1,2 @@
 # fries-web
-Website developer for DevCamp
+Website developed for DevCamp
